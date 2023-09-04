@@ -11,11 +11,13 @@
 
 - 👨‍💻 More at [Marceloduarte.dev]
 <br> <br>
+
 - Learning about:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 
+<br> 
 
 <div>
 <a href="https://github.com/Marcelo1304">
@@ -23,6 +25,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo1304&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<br> <br>
 ![Snake animation](https://github.com/Marcelo1304/Marcelo1304/blob/output/github-contribution-grid-snake.svg)
 <!--
 
@@ -70,8 +73,7 @@
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

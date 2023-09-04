@@ -11,6 +11,17 @@
 
 - 👨‍💻 More at [Marceloduarte.dev]
 
+- Learning about:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+
+
+
+
 <div>
 <a href="https://github.com/Marcelo1304">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo1304&layout=compact&langs_count=7&theme=dracula"/>

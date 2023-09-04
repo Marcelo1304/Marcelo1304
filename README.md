@@ -1,7 +1,7 @@
 # README
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcelo Duarte</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcelo1304&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Systems Analysis and Development Student
 

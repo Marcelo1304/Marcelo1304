@@ -60,7 +60,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="www.linkedin.com/in/marcelo-duarte-5a20091b1" target="_blank">
+<a href="https://www.linkedin.com/in/marcelo-duarte-5a20091b1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Marcelo_Duarte-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/_marcelo.duarte_/" target="_blank">

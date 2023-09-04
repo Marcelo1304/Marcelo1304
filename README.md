@@ -17,15 +17,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 
 
-
-
-
-
 <div>
 <a href="https://github.com/Marcelo1304">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo1304&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo1304&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/Marcelo1304/Marcelo1304/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 <br><br>

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently searching a job...
 
-- 💬 Learning about **Java, HTML, CSS, Javascript, C#,  SQL, **
+- 💬 Learning about **Java, HTML, CSS, Javascript, C# e SQL **
 
 - 👨‍💻 More at [Marceloduarte.dev]
 <br> <br>
